@@ -19,8 +19,8 @@
 
   &.secondary {
     background: white;
-    background: $primary-text;
-    font-size: 16px; 
+    color: $primary-text;
+    font-size: 12px;
     font-weight: bold;
   }
 }
